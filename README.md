@@ -8,7 +8,7 @@
 🌍 Buscando soluções e aprimoramentos.
 🏫 Estagiário da Glan Data Sistemas 
 ⚙️ Sempre aprendendo, testando e evoluindo como dev.  
-👀 Buscando novas oportunidades 
+
 
 
 ---
