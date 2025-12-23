@@ -1,5 +1,4 @@
 # 👋 Olá! Seja bem-vindo ao meu Git
-## Pedro Lacerda
 <
 ᑭᕮᗞᖇO ᒪᗩᑕᕮᖇᗞᗩ
 ---
