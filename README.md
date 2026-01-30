@@ -6,7 +6,7 @@
 ## 🧑‍💻 Sobre mim
 
 🌍 Buscando soluções e aprimoramentos.
-🏫 Estagiário da Glan Data Sistemas 
+🏫 Estagiário 
 ⚙️ Sempre aprendendo, testando e evoluindo como dev.  
 
 
