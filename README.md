@@ -19,5 +19,7 @@
 - CSS3  
 - JavaScript  
 - PHP    
-- Python  
+- Python
+- Java
+- SQL
 
